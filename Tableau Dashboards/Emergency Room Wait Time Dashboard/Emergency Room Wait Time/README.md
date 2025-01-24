@@ -4,7 +4,7 @@ A brief description of what this project does and who it's for
 
 # PROBLEM STATEMENT
 
-### Dashboard Link: https://public.tableau.com/app/profile/tumisang.maramane/viz/HospitalEmergencyRoomVisits_17072236482160/Dashboard1?publish=yes
+### Dashboard Link: [https://public.tableau.com/app/profile/tumisang.maramane/viz/HospitalEmergencyRoomVisits_17072236482160/Dashboard1?publish=yes](https://public.tableau.com/app/profile/ruthika.reddy.aliminati/viz/HospitalEmergencyRoomVisits_17377257730610/Dashboard1)
 
 ## Problem Statement
 
@@ -120,5 +120,6 @@ Overall Performance Metrics:
  By aggregating key performance metrics, such as average wait times and patient satisfaction scores, hospital administrators can assess the overall effectiveness and efficiency of emergency department operations and identify opportunities for improvement.
 
 These insights derived from the Tableau Emergency Room dashboard empower healthcare providers and decision-makers to make data-driven decisions aimed at enhancing patient care, optimising resource allocation, and improving operational efficiency in the emergency department
-![DASHBOARD](https://github.com/TumiSpaces/Tableau-Hospital-Emergency-Room-Visits/assets/124736182/a528fabc-4921-4d28-b1e7-4bec4bd5b006)
+
+
 

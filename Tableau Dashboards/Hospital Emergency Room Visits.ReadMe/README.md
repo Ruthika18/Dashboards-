@@ -4,8 +4,6 @@ A brief description of what this project does and who it's for
 
 # PROBLEM STATEMENT
 
-### Dashboard Link: https://public.tableau.com/app/profile/tumisang.maramane/viz/HospitalEmergencyRoomVisits_17072236482160/Dashboard1?publish=yes
-
 ## Problem Statement
 
 The emergency department (ER) of a hospital aims to provide efficient and effective care to patients in need of urgent medical attention. However, managing and analysing the influx of patients, their demographics, satisfaction levels, and department referrals can be challenging without a centralised system for data visualisation and analysis. To address this challenge, there is a need to develop a Tableau dashboard that provides comprehensive insights into ER operations, including patient volume trends, demographic distribution, satisfaction scores, average wait times, and department referrals. This dashboard will enable hospital administrators, healthcare providers, and decision-makers to make informed decisions, optimise resource allocation, and enhance the overall quality of care provided in the emergency department
@@ -120,5 +118,5 @@ Overall Performance Metrics:
  By aggregating key performance metrics, such as average wait times and patient satisfaction scores, hospital administrators can assess the overall effectiveness and efficiency of emergency department operations and identify opportunities for improvement.
 
 These insights derived from the Tableau Emergency Room dashboard empower healthcare providers and decision-makers to make data-driven decisions aimed at enhancing patient care, optimising resource allocation, and improving operational efficiency in the emergency department
-![DASHBOARD](https://github.com/TumiSpaces/Tableau-Hospital-Emergency-Room-Visits/assets/124736182/a528fabc-4921-4d28-b1e7-4bec4bd5b006)
+
 
